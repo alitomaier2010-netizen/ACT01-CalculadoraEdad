@@ -1,3 +1,7 @@
+> **Repositorio independiente** — separado de `Actividades-2.0` el 26/11/2026.
+> GitHub: https://github.com/alitomaier2010-netizen/ACT01-CalculadoraEdad
+> GitLab: https://gitlab.com/Alitopro/ACT01-CalculadoraEdad
+
 # Calculadora de Edad (Python & C++)
 
 **Actividad 1 — Revisión integral (Python & C++)** · Laboratorio de Programación · 5.º 3.ª A-B · E.E.S.T. N.º 1 «Eduardo Ader»
